@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <ce-muzzamil>
+   # ce-muzzamil
 
    # Input:
    # p, principal amount
